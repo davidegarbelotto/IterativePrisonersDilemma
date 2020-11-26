@@ -1,0 +1,8 @@
+Number of times each strategy won:
+
+tft		5
+tf2t		5
+spiteful	4
+bad		3
+pavlov		1
+hard majo	1
